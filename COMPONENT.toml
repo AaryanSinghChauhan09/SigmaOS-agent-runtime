@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-agent-runtime"
-description = "Common agent lifecycle, permissions, execution, and audit APIs"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 version = "0.1.0"
 tier = 3
 
